@@ -1,0 +1,6 @@
+node_modules/
+server/catan.db
+server/catan.db-wal
+server/catan.db-shm
+.env
+server/.env
